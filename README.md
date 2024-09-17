@@ -12,7 +12,7 @@ We validate our hypothesis with three benchmark examples that demonstrate notabl
 
 [Traditional_approach.pdf](https://github.com/user-attachments/files/17034276/Traditional_approach.pdf)
 
-[Our_approach.pdf](https://github.com/user-attachments/files/17034277/Our_approach.pdf)
+![Our_approach](https://github.com/user-attachments/assets/7d6fa128-cedb-4949-943d-f1d4be83c275)
 
 ## Installing
 
