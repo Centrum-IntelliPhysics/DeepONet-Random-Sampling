@@ -10,6 +10,10 @@ Traditionally, DeepONet training involves evaluating the trunk network across a 
 
 We validate our hypothesis with three benchmark examples that demonstrate notable reductions in training time while maintaining comparable or even better generalization performance than the traditional training approach. The results affirm that integrating randomization into the trunk network inputs during training significantly enhances the efficiency and robustness of DeepONet, marking a promising direction for refining the model’s performance in simulating complex physical systems.
 
+[Traditional_approach.pdf](https://github.com/user-attachments/files/17034276/Traditional_approach.pdf)
+
+[Our_approach.pdf](https://github.com/user-attachments/files/17034277/Our_approach.pdf)
+
 ## Installing
 
 The code for examples is written in pytorch. Install dependencies at [requirements.txt](https://github.com/Centrum-IntelliPhysics/Efficient_DeepONet_training/tree/main/requirements.txt) and clone our repository
@@ -22,7 +26,7 @@ cd Efficient_DeepONet_training
 This repository contains implementations and analyses for the experiments described in the paper. The repository is organized as follows:
 
 *	Example Folders: Each example discussed in the paper is located in its respective folder. Within these folders, you will find a Python file named DeepONet_analysis.py. This script demonstrates the process of random subsampling of the inputs to the trunk network for efficient training of the DeepONet model.
-* Results: Results from the computations are saved in the analysis_results folder. This includes outputs generated from running the DeepONet_analysis.py scripts.
+* Results: Results from the computations are saved in the 'analysis_results' folder. This includes outputs generated from running the DeepONet_analysis.py scripts.
 * Postprocessing: The 'postprocessing' folder contains code for generating plots and visualizations based on the analysis results.
   
 ### Citation:
