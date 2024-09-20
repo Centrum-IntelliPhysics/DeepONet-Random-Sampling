@@ -19,6 +19,10 @@ We validate our approach with three benchmark examples, demonstrating significan
   <strong>Figure 2: Our Approach</strong>
 </p>
 
+## Data and Analsyis
+
+The labeled dataset used for the problems demonstrated in the manuscript, the data generation script along with the postprocessing results are uploaded [here](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/sgoswam4_jh_edu/EggFTAkvzdhMirX6A3ZglUABetWx7U0l-hfyAuxPuvDWFw?e=PObtYk).
+
 ## Installing
 
 The code for examples is written in PyTorch. To install the dependencies, refer to [requirements.txt](https://github.com/Centrum-IntelliPhysics/Efficient_DeepONet_training/tree/main/requirements.txt) and clone our repository:
