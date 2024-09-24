@@ -39,4 +39,4 @@ This repository contains implementations and analyses for the experiments descri
 * Postprocessing: The 'postprocessing' folder contains code for generating plots and visualizations based on the analysis results.
   
 ### Citation:
-If you use this code for your research, please cite our paper https://arxiv.org/submit/5867630.
+If you use this code for your research, please cite our paper http://arxiv.org/abs/2409.13280.
