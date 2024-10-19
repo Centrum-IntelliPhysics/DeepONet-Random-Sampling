@@ -1,10 +1,9 @@
 ## **Efficient Training of Deep Neural Operator Networks via Randomized Sampling**
 [Sharmila Karumuri](https://scholar.google.com/citations?user=uY1G-S0AAAAJ&hl=en), [Lori Graham-Brady](https://scholar.google.com/citations?user=xhj8q8cAAAAJ&hl=en) and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en).
 
-Here is a brief presentation of our approach and the results we achieved using it:
-https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90
-
-
+“Here are both the presentation slides and the recording of our presentation, which discuss our approach and the results we achieved using it: 
+Slides: [DeepONet-randomization-study-final.pptx](https://github.com/user-attachments/files/17442591/DeepONet-randomization-study-final.pptx)
+Presentation: https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90
 
 In this work, we introduce a novel random sampling technique for training DeepONet, designed to enhance model generalization and reduce computational demands. This technique focuses on the trunk network of DeepONet, which generates basis functions for spatiotemporal locations within a bounded domain where the physical system operates.
 
