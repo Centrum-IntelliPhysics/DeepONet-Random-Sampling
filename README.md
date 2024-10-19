@@ -1,6 +1,11 @@
 ## **Efficient Training of Deep Neural Operator Networks via Randomized Sampling**
 [Sharmila Karumuri](https://scholar.google.com/citations?user=uY1G-S0AAAAJ&hl=en), [Lori Graham-Brady](https://scholar.google.com/citations?user=xhj8q8cAAAAJ&hl=en) and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en).
 
+Here is a brief presentation of our approach and the results we achieved using it.
+https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90
+
+
+
 In this work, we introduce a novel random sampling technique for training DeepONet, designed to enhance model generalization and reduce computational demands. This technique focuses on the trunk network of DeepONet, which generates basis functions for spatiotemporal locations within a bounded domain where the physical system operates.
 
 Traditionally, DeepONet training involves evaluating the trunk network on a uniform grid of spatiotemporal points to construct the loss function for each iteration. This approach results in larger batch sizes, which can lead to poor generalization, slower convergence, and increased memory usage. Our method, which employs random sampling for the trunk network inputs, addresses these issues by reducing batch sizes, thereby improving generalization and reducing memory usage, ultimately enhancing computational efficiency.
@@ -22,7 +27,7 @@ We validate our approach with three benchmark examples, demonstrating significan
 ## Results
 https://github.com/user-attachments/assets/85a38267-98cd-4ce6-ba3a-c304b151dd8f
 
-The dotted lines in the train and test plots represent the traditional approach to training, while the solid lines depict our randomized sampling approach. This animation clearly shows that we achieve the same level of test accuracy in one-fifth of the training time.
+The dotted lines in the train and test plots represent the traditional training approach, while the solid lines depict our randomized sampling approach. This animation clearly shows that we achieve the same level of test accuracy in one-fifth of the training time.
 
 
 ## Data and Analysis
