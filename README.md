@@ -22,7 +22,7 @@ We validate our approach with three benchmark examples, demonstrating significan
 ## Results
 https://github.com/user-attachments/assets/85a38267-98cd-4ce6-ba3a-c304b151dd8f
 
-The dotted lines in the train and test plots represent the traditional line approach to training, while the solid lines depict our randomized sampling approach. This animation clearly shows that we achieve the same level of test accuracy in one-fifth of the training time.
+The dotted lines in the train and test plots represent the traditional approach to training, while the solid lines depict our randomized sampling approach. This animation clearly shows that we achieve the same level of test accuracy in one-fifth of the training time.
 
 
 ## Data and Analysis
