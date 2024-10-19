@@ -3,9 +3,9 @@
 
 You can find both the presentation slides and the recording of our presentation, outlining our approach and the results we achieved:
 
-Slides- [DeepONet-randomization-study-final.pptx](https://github.com/user-attachments/files/17442591/DeepONet-randomization-study-final.pptx)
+Slides- [DeepONet-Efficient-Training-with-Random-Sampling-final.pptx](https://github.com/user-attachments/files/17442591/DeepONet-randomization-study-final.pptx)
 
-Recording- https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90
+Recording- [DeepONet-Efficient-Training-with-Random-Sampling_presentation.mp4](https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90)
 
 In this work, we introduce a novel random sampling technique for training DeepONet, designed to enhance model generalization and reduce computational demands. This technique focuses on the trunk network of DeepONet, which generates basis functions for spatiotemporal locations within a bounded domain where the physical system operates.
 
