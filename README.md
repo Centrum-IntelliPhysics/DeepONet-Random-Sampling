@@ -19,7 +19,13 @@ We validate our approach with three benchmark examples, demonstrating significan
   <strong>Figure 2: Our Approach</strong>
 </p>
 
-## Data and Analsyis
+## Results
+https://github.com/user-attachments/assets/85a38267-98cd-4ce6-ba3a-c304b151dd8f
+
+The dotted lines in the train and test plots represent the traditional line approach to training, while the solid lines depict our randomized sampling approach. This animation clearly shows that we achieve the same level of test accuracy in one-fifth of the training time.
+
+
+## Data and Analysis
 
 The labeled dataset used for the problems demonstrated in the manuscript, the data generation script along with the postprocessing results are uploaded [here](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/sgoswam4_jh_edu/EggFTAkvzdhMirX6A3ZglUABetWx7U0l-hfyAuxPuvDWFw?e=PObtYk).
 
