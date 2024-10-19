@@ -1,7 +1,7 @@
 ## **Efficient Training of Deep Neural Operator Networks via Randomized Sampling**
 [Sharmila Karumuri](https://scholar.google.com/citations?user=uY1G-S0AAAAJ&hl=en), [Lori Graham-Brady](https://scholar.google.com/citations?user=xhj8q8cAAAAJ&hl=en) and [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en).
 
-Here is a brief presentation of our approach and the results we achieved using it.
+Here is a brief presentation of our approach and the results we achieved using it:
 https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90
 
 
