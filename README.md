@@ -3,7 +3,7 @@
 
 You can find both the presentation slides and the recording of our presentation, outlining our approach and the results we achieved:
 
-Slides- [DeepONet-Efficient-Training-with-Random-Sampling-final.pptx](https://github.com/user-attachments/files/17442591/DeepONet-randomization-study-final.pptx)
+Slides- [DeepONet-randomization-study-final.pdf](https://github.com/user-attachments/files/17534763/DeepONet-randomization-study-final.pdf)
 
 Recording- [DeepONet-Efficient-Training-with-Random-Sampling_presentation.mp4](https://github.com/user-attachments/assets/90aea455-5b07-446e-b5f0-0d7cf8139f90)
 
